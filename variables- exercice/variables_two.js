@@ -1,0 +1,13 @@
+let mangue ;
+console.log(mangue) ;
+mangue = 10 ;
+console.log(mangue) ;
+mangue += 1 ;
+console.log(mangue) ;
+mangue += 1 ;
+console.log(mangue) ;
+let banana = mangue ;
+console.log(banana) ;
+banana /= 2 ;
+console.log(banane) ;
+console.log(mangue) ;
